@@ -75,7 +75,7 @@ def chatbot(user_input):
 
 
 def main():
-    (print("Hey, I'm Nexa, your AI Chatbox! How can I help you?"))
+    print("Hey, I'm Nexa, your AI Chatbox! How can I help you?")
 
    #basic step- taking in user input and creating a format of conversation
 
